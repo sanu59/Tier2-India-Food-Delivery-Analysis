@@ -31,4 +31,8 @@ Scikit-learn · Gradient Boosting · Google Colab
 Zomato Top 100 Cities Dataset — Kaggle (43,000+ restaurants)
 
 ## Dashboard
-![Final Dashboard](final_dashboard.png)
+![Final Dashboard](chart1_ratings_by_city.png)
+![Delivery Time](chart2_delivery_time.png)
+![Top Cuisines](chart3_top_cuisines.png)
+![Price vs Rating](chart4_price_vs_rating.png)
+![Value Index](chart5_value_index.png)
