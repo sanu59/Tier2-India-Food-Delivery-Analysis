@@ -37,10 +37,10 @@ restaurants across 14 Tier 2 cities to find what everyone else is missing.
 ![Delivery Time](chart2_delivery_time.png)
 ![Top Cuisines](chart3_top_cuisines.png)
 ![Price vs Rating](chart4_price_vs_rating.png)
-![Value Index](chart_value_index.png)
-![ML Feature Importance](chart_ml_importance.png)
-![Cuisine Gap](chart_cuisine_gap.png)
-![Business Recommendations](chart_recommendations.png)
+![Value Index](chart5_value_index.png)
+![ML Feature Importance](chart6_ml_importance.png)
+![Cuisine Gap](chart7_cuisine_gap.png)
+![Business Recommendations](chart8_recommendations.png)
 
 ---
 
